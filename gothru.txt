@@ -1,2 +1,0 @@
-1) go thru Generics and practice
-2) 
